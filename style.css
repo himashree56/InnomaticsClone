@@ -250,9 +250,7 @@ body {
 .slideshow {
     max-width: 1500px;
     position: relative;
-    margin: 0 auto;
     overflow: hidden;
-     margin-bottom: 1000px;
 }
 .slideshow input {
     display: none;
