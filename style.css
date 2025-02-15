@@ -59,7 +59,7 @@ body {
     align-items: center;
     max-width: var(--max-width);
     margin: 0 auto;
-    padding: 1rem var(--padding-x);
+    padding: 0.5rem var(--padding-x);
 }
 
 .logo {
